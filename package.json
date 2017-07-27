@@ -1,0 +1,11 @@
+{
+  "name": "ionic-bower",
+  "version": "1.3.3",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inc-npm/ionic-bower.git"
+  },
+  "private": true,
+  "license": "MIT",
+  "homepage": "https://github.com/askhelmut/askhelmut-app#readme"
+}
